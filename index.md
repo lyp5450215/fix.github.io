@@ -31,4 +31,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-[赣ICP备18008090号](http://www.beian.miit.gov.cn)
+[赣ICP备18008090号](https://beian.miit.gov.cn/)
